@@ -1,6 +1,6 @@
 ## Criação de um app que gera sorteio de corrida grátis 
 
-###Olá! :D
+### Olá! :D
 
 Este é um projeto desenvolvido como estudo e treino, aplicando as linguagens CSS, HTML e JavaScript.
 
