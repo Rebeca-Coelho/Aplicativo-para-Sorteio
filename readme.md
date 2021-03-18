@@ -8,10 +8,15 @@ A ideia foi criar um aplicativo de sorteio, utlizado para aplicativos de compart
 
 
 Passos a serem seguidos:
+
 1-fazer fork do repositório;
+
 2-clonar na sua máquina (PC ou notebook);
+
 3-abrir o repositório no programa VScode (deve estar instalado no seu PC ou notebook);
+
 4-abrir o TERMINAL do Vscode;
+
 5-executar os códigos do repositório pelo TERMINAL: escrevendo "npm start".
 
 **Este projeto está em constante desenvolvimento para aprimorações e análises.**
