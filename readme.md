@@ -1,6 +1,6 @@
 ## Criação de um app que gera sorteio de corrida grátis 
 
-![logo](Aplicativodesorteio.png)
+![logo](AplicativoDeSorteio.png)
 
 ### Olá! :D
 
