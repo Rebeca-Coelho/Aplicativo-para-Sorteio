@@ -1,6 +1,6 @@
-### Aplicativo de Sorteio: Corrida Grátis
+## Aplicativo de Sorteio: Corrida Grátis
 
-## Criação de um app que gera sorteio de corrida grátis 
+### Criação de um app que gera sorteio de corrida grátis 
 
 ![logo](AplicativoDeSorteio.png)
 
